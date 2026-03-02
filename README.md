@@ -1,4 +1,5 @@
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHgyeHgyeHgyeHgyeHgyeHgyeHgyeHgyeHgyeHgyeHgyeHgyeHcmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/o0vwzuFwCGAFO/giphy.gif
+https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+
 <h1 align="left">Hi, I'm Mithun M</h1>
 
 <h3>Full Stack Developer • Java • Python • AWS Learner</h3>
