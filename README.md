@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="banner" width="900"/>
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="banner" width="100%" style="max-height:300px;object-fit:cover;"/>
 </p>
 
 <h1 align="center">Hi, I'm Mithun M 👋</h1>
-<p align="center">Full Stack Developer • Java • Python • React • AWS Learner</p>
+<p align="center"><strong>Full Stack Developer</strong> • Java • Python • React • AWS</p>
 
 <p align="center">
-  <!-- Social / contact badges -->
   <a href="https://github.com/Mithun-Mithu"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/mithun-m-475857325/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mithunmithu3041@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -14,62 +13,81 @@
 
 ---
 
-## About Me
-
-Passionate Full Stack Developer focused on building responsive, accessible, and performant web applications. I enjoy learning new technologies and applying them to real-world problems. Currently exploring cloud-native development on AWS and improving backend skills with Java and Python.
+<!-- Quick intro and CTA -->
+<div align="center">
+  <p style="max-width:760px">I'm a Full Stack Developer who loves building clean, performant web applications. I focus on Java/Python backends and modern React frontends — currently learning cloud-native patterns on AWS. If you'd like to collaborate or see a demo, check the Featured Projects below or get in touch.</p>
+  <p>
+    <a href="#projects"><img src="https://img.shields.io/badge/Featured%20Projects-Explore-blue" alt="Explore projects"/></a>
+    <a href="https://github.com/Mithun-Mithu?tab=repositories"><img src="https://img.shields.io/badge/All%20Repos-View-green" alt="View repos"/></a>
+  </p>
+</div>
 
 ---
 
-## Tech & Tools
+## ✨ Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/github/followers/Mithun-Mithu?label=Followers&style=social" alt="followers"/>&nbsp;
+  <img src="https://img.shields.io/github/stars/Mithun-Mithu?style=social" alt="stars"/>&nbsp;
+  <img src="https://img.shields.io/github/last-commit/Mithun-Mithu/Mithun-Mithu?color=orange" alt="last commit"/>
 </p>
 
 ---
 
-## Featured Projects
-
-- [Project-One](https://github.com/Mithun-Mithu/project-one) — A short description of a project that showcases frontend + backend integration and clean architecture.
-- [Project-Two](https://github.com/Mithun-Mithu/project-two) — RESTful API with authentication, unit tests, and Docker support.
-- [Portfolio](https://github.com/Mithun-Mithu/portfolio) — Personal portfolio built with React and Tailwind CSS.
-
-(If you want, I can add images or demos for any project.)
-
----
-
-## GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithun-Mithu&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Mithun's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-Mithu&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mithun-Mithu&theme=radical&hide_border=true" alt="streak"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
-## What I'm learning
+## 🚀 Featured Projects
 
-- Cloud-native development on AWS (Lambda, ECS, S3)
-- Advanced Java (Spring Boot, Microservices)
-- Data structures & algorithms for backend performance
+<div align="center">
+
+| Project | Tech | Description |
+|---:|:---:|:---|
+| [Portfolio](https://github.com/Mithun-Mithu/portfolio) | React • Tailwind | Personal portfolio with project demos and contact form |
+| [Project-One](https://github.com/Mithun-Mithu/project-one) | Java • Spring Boot | Backend service with REST API, unit tests, and Docker setup |
+| [Project-Two](https://github.com/Mithun-Mithu/project-two) | Node.js • Express | Full-stack app with authentication and CI workflow |
+
+</div>
+
+> Want screenshots or live demos here? I can add GIFs or hosted demo links for each project.
 
 ---
 
-## Let's connect
+## 📊 GitHub Stats
 
-I'm open to collaborating on interesting projects and learning opportunities. Feel free to reach out on LinkedIn or send me an email at mithunmithu3041@gmail.com.
+<div align="center">
+  <!-- Side-by-side stats and languages -->
+  <table><tr>
+  <td valign="top">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mithun-Mithu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" />
+  </td>
+  <td valign="top">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-Mithu&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  </td>
+  </tr></table>
+
+  <p>
+    <img src="https://ghchart.rshah.org/Mithun-Mithu" alt="Contributions chart" />
+  </p>
+</div>
+
+---
+
+## 📫 Contact
+
+<p align="center">If you like my work or want to collaborate — connect on <a href="https://www.linkedin.com/in/mithun-m-475857325/">LinkedIn</a> or email me at <a href="mailto:mithunmithu3041@gmail.com">mithunmithu3041@gmail.com</a>.</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mithun-Mithu.Mithun-Mithu" alt="visitors"/>
