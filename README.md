@@ -1,98 +1,84 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="banner" width="100%" style="max-height:300px;object-fit:cover;"/>
-</p>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<h1 align="center">Hi, I'm Mithun M 👋</h1>
-<p align="center"><strong>Full Stack Developer</strong> • Java • Python • React • AWS</p>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Mithun M</strong>
+</h1>
 
-<p align="center">
-  <a href="https://github.com/Mithun-Mithu"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/mithun-m-475857325/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mithunmithu3041@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<h3>Full Stack Developer • Java • Python • AWS Learner</h3>
 
----
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-<!-- Quick intro and CTA -->
-<div align="center">
-  <p style="max-width:760px">I'm a Full Stack Developer who loves building clean, performant web applications. I focus on Java/Python backends and modern React frontends — currently learning cloud-native patterns on AWS. If you'd like to collaborate or see a demo, check the Featured Projects below or get in touch.</p>
   <p>
-    <a href="#projects"><img src="https://img.shields.io/badge/Featured%20Projects-Explore-blue" alt="Explore projects"/></a>
-    <a href="https://github.com/Mithun-Mithu?tab=repositories"><img src="https://img.shields.io/badge/All%20Repos-View-green" alt="View repos"/></a>
+    Full Stack Developer in progress with a strong interest in modern web technologies.
+    Building projects using Java, Python, React, HTML, CSS, JavaScript, and SQL.
+    Driven by curiosity, learning, and creating efficient digital solutions.
   </p>
-</div>
 
----
-
-## ✨ Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Mithun-Mithu?label=Followers&style=social" alt="followers"/>&nbsp;
-  <img src="https://img.shields.io/github/stars/Mithun-Mithu?style=social" alt="stars"/>&nbsp;
-  <img src="https://img.shields.io/github/last-commit/Mithun-Mithu/Mithun-Mithu?color=orange" alt="last commit"/>
+  <a href="https://github.com/Mithun-Mithu">GitHub</a> •
+  <a href="https://www.linkedin.com/in/mithun-m-475857325/">LinkedIn</a> •
+  <a href="mailto:mithunmithu3041@gmail.com">Email</a>
+
+  </p>
+
+<h3>🌐 Connect With Me</h3>
+  
+<p align="left">
+  <a href="https://github.com/Mithun-Mithu">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mithun-m-475857325/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Tech | Description |
-|---:|:---:|:---|
-| [Portfolio](https://github.com/Mithun-Mithu/portfolio) | React • Tailwind | Personal portfolio with project demos and contact form |
-| [Project-One](https://github.com/Mithun-Mithu/project-one) | Java • Spring Boot | Backend service with REST API, unit tests, and Docker setup |
-| [Project-Two](https://github.com/Mithun-Mithu/project-two) | Node.js • Express | Full-stack app with authentication and CI workflow |
-
+  <img src="https://komarev.com/ghpvc/?username=Mithun-Mithu&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
-> Want screenshots or live demos here? I can add GIFs or hosted demo links for each project.
+<br clear="all" />
 
----
+
+## 🛠️ Skills
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+
+ <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind" />
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<br/><br/>
+</td>
+
+<td width="50%" align="center">
+    <h3>🧰 Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws" />
+</td>
+</tr>
+</table>
+</p>
+
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Side-by-side stats and languages -->
-  <table><tr>
-  <td valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithun-Mithu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" />
-  </td>
-  <td valign="top">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-Mithu&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  </td>
-  </tr></table>
-
-  <p>
-    <img src="https://ghchart.rshah.org/Mithun-Mithu" alt="Contributions chart" />
-  </p>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Mithun-Mithu&theme=dark&hide_border=true" alt="Streak" />
 </div>
-
----
-
-## 📫 Contact
-
-<p align="center">If you like my work or want to collaborate — connect on <a href="https://www.linkedin.com/in/mithun-m-475857325/">LinkedIn</a> or email me at <a href="mailto:mithunmithu3041@gmail.com">mithunmithu3041@gmail.com</a>.</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mithun-Mithu.Mithun-Mithu" alt="visitors"/>
-</p>
-
----
-
-_Last updated: July 24, 2026_
