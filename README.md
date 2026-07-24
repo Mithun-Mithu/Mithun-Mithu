@@ -46,6 +46,11 @@ Git • GitHub • VS Code • Postman • AWS
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-Mithu&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 </p>
 
+<p align="center">
+  <!-- Contributions heatmap -->
+  <img src="https://ghchart.rshah.org/Mithun-Mithu" alt="Contributions chart" />
+</p>
+
 ## Hi there 👋
 
 <!--
