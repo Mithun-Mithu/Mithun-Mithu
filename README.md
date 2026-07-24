@@ -5,7 +5,7 @@
   Hi, I'm <strong>Mithun M</strong>
 </h1>
 
-<h3>Full Stack Developer • Java • Python • AWS Learner</h3>
+<h3>Full Stack Developer • Java • Python</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -79,14 +79,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Readme Stats (more reliable) -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Mithun-Mithu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-Mithu&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  </p>
-  <p>
-    <img src="https://ghchart.rshah.org/Mithun-Mithu" alt="Contributions chart" />
-  </p>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Mithun-Mithu&theme=dark&hide_border=true" alt="Streak" />
 </div>
