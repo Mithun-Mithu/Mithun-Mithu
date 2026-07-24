@@ -79,6 +79,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Mithun-Mithu&theme=dark&hide_border=true" alt="Streak" />
+  <!-- GitHub Readme Stats (more reliable) -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mithun-Mithu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-Mithu&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  </p>
+  <p>
+    <img src="https://ghchart.rshah.org/Mithun-Mithu" alt="Contributions chart" />
+  </p>
 </div>
