@@ -33,15 +33,19 @@ React • Node.js • Express • Bootstrap • Tailwind
 MySQL • MongoDB  
 
 **Tools & Platforms**  
-Git • GitHub • VS Code • Postman • AWS  
+Git • GitHub • VS Code • Postman • AWS
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-   <img src="https://streak-stats.demolab.com?user=Mithun-Mithu&theme=default&hide_border=true" alt="Mithun's GitHub Streak" />
+  <!-- GitHub readme stats (reliable vercel app) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mithun-Mithu&show_icons=true&theme=default&hide_border=true" alt="Mithun's GitHub stats" />
+  <!-- Top languages card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-Mithu&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 </p>
+
 ## Hi there 👋
 
 <!--
