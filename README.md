@@ -7,15 +7,6 @@
 
 <h3>Full Stack Developer • Java • Python</h3>
 
-<!-- GitHub stats cards (visible on profile front) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithun-Mithu&show_icons=true&theme=dark&hide_border=true" alt="Mithun M's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-Mithu&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Mithun-Mithu&theme=dark&hide_border=true" alt="Streak" />
-</div>
-
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
