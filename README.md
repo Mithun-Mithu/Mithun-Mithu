@@ -230,8 +230,8 @@ Motto       : "Exploring tech, creating impact."
 | 🤖 | **GenAI Powered Data Analytics** | Tata via Forage |
 | 🏗️ | **Solutions Architecture Virtual Experience** | AWS APAC via Forage |
 | 🎓 | **Springboard Certifications** | Infosys |
-| ✍️ | **Prompt Engineering** | — |
-| 🧑‍💻 | **Technical Bootcamps** | — |
+| ✍️ | **Prompt Engineering** | Infosys Springboard |
+| 🧑‍💻 | **Technical Bootcamps** | Accademic |
 
 <br/>
 
