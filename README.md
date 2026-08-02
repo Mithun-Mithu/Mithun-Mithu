@@ -28,7 +28,7 @@ Name        : Mithun M
 Location    : Chitradurga, Karnataka, India
 Education   : B.Sc. Computer Science — Don Bosco Degree College (2023–2026)
 CGPA        : 8.3 / 10
-Focus       : Full Stack Dev · AI/ML · Cloud · Cyber Security
+Focus       : Java & DSA · Full Stack Dev · AI/ML · Cloud · Cyber Security
 Available   : Internships & Entry-Level Opportunities
 Motto       : "Exploring tech, creating impact."
 ```
@@ -231,7 +231,7 @@ Motto       : "Exploring tech, creating impact."
 | 🏗️ | **Solutions Architecture Virtual Experience** | AWS APAC via Forage |
 | 🎓 | **Springboard Certifications** | Infosys |
 | ✍️ | **Prompt Engineering** | Infosys Springboard |
-| 🧑‍💻 | **Technical Bootcamps** | Accademic |
+| 🧑‍💻 | **Technical Bootcamps** | Academics |
 
 <br/>
 
