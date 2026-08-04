@@ -21,14 +21,14 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddea83b83e0.gif"/>
 
 ```yaml
 Name        : Mithun M
 Location    : Chitradurga, Karnataka, India
 Education   : B.Sc. Computer Science — Don Bosco Degree College (2023–2026)
 CGPA        : 8.3 / 10
-Focus       : Java & DSA · Full Stack Dev · AI/ML · Cloud · Cyber Security
+Focus       : Full Stack Dev · AI/ML · Cloud · Cyber Security
 Available   : Internships & Entry-Level Opportunities
 Motto       : "Exploring tech, creating impact."
 ```
@@ -230,8 +230,8 @@ Motto       : "Exploring tech, creating impact."
 | 🤖 | **GenAI Powered Data Analytics** | Tata via Forage |
 | 🏗️ | **Solutions Architecture Virtual Experience** | AWS APAC via Forage |
 | 🎓 | **Springboard Certifications** | Infosys |
-| ✍️ | **Prompt Engineering** | Infosys Springboard |
-| 🧑‍💻 | **Technical Bootcamps** | Academics |
+| ✍️ | **Prompt Engineering** | — |
+| 🧑‍💻 | **Technical Bootcamps** | — |
 
 <br/>
 
