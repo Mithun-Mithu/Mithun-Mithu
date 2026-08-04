@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddea83b83e0.gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"/>
 
 ```yaml
 Name        : Mithun M
