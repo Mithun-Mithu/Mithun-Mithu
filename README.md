@@ -21,14 +21,14 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"/>
 
 ```yaml
 Name        : Mithun M
 Location    : Chitradurga, Karnataka, India
 Education   : B.Sc. Computer Science — Don Bosco Degree College (2023–2026)
 CGPA        : 8.3 / 10
-Focus       : Java & DSA · Full Stack Dev · AI/ML · Cloud · Cyber Security
+Focus       : Full Stack Dev · AI/ML · Cloud · Cyber Security
 Available   : Internships & Entry-Level Opportunities
 Motto       : "Exploring tech, creating impact."
 ```
@@ -53,13 +53,16 @@ Motto       : "Exploring tech, creating impact."
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend & Databases**
@@ -76,6 +79,7 @@ Motto       : "Exploring tech, creating impact."
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 **Core Concepts**
@@ -101,6 +105,67 @@ Motto       : "Exploring tech, creating impact."
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🛒 Full Stack E-Commerce App (MERN)</h3>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <br/><br/>
+      <b>Full-stack e-commerce platform</b> with product listings, cart management, JWT authentication, order processing, and an admin dashboard for inventory and order management.
+      <br/><br/>
+      ✅ JWT-based secure authentication<br/>
+      ✅ Admin dashboard + product/order management<br/>
+      ✅ RESTful APIs with MongoDB backend
+      <br/><br/>
+      <a href="https://github.com/Mithun-Mithu/Full-Stack-e-commerce-MERN-app"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud Native Smart Placement Analyzer</h3>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <br/><br/>
+      <b>AI-powered ATS resume analyzer</b> — students upload resumes and instantly receive an ATS score, skill analysis, and job role recommendations powered by AWS cloud services.
+      <br/><br/>
+      ✅ Resume ATS scoring powered by AWS<br/>
+      ✅ Skill gap analysis & job role recommendations<br/>
+      ✅ Cloud-native architecture on AWS
+      <br/><br/>
+      <a href="https://github.com/Mithun-Mithu/Cloud-native-smart-placement-analyzer"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Fitness Planner AI Agent</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      <br/><br/>
+      <b>AI-powered fitness planner</b> that generates personalized workout and diet plans based on user goals, fitness level, and available equipment — built with LangChain, ChatGroq & DuckDuckGo.
+      <br/><br/>
+      ✅ Personalized AI workout & diet plans<br/>
+      ✅ LangChain + ChatGroq LLM integration<br/>
+      ✅ Real-time web search via DuckDuckGo
+      <br/><br/>
+      <a href="https://github.com/Mithun-Mithu/Fitness-Planner-Agent"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📅 Daily DSA Practice</h3>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DSA-0ea5e9?style=flat-square"/>
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+      <br/><br/>
+      <b>Consistent daily DSA practice repository</b> — solving algorithmic problems in Java covering arrays, linked lists, trees, graphs, dynamic programming, and more.
+      <br/><br/>
+      ✅ Daily problem-solving in Java<br/>
+      ✅ Covers all major DSA topics<br/>
+      ✅ Active — updated 12 hours ago
+      <br/><br/>
+      <a href="https://github.com/Mithun-Mithu/Daily_DSA_Practice"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🚗 Number Plate Detection System</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
@@ -111,52 +176,8 @@ Motto       : "Exploring tech, creating impact."
       ✅ Pattern detection with preprocessing filters<br/>
       ✅ Practical application in traffic monitoring
       <br/><br/>
-      <a href="https://github.com/Mithun-Mithu"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/Mithun-Mithu/Mithun-M-"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🚑 Emergency Ambulance Booking Platform</h3>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
-      <br/><br/>
-      <b>Real-time emergency response platform</b> connecting patients, ambulances, and hospitals. Implements live location tracking and intelligent routing to minimize emergency response time.
-      <br/><br/>
-      ✅ Live location-based routing<br/>
-      ✅ Multi-role system: patient, driver, hospital<br/>
-      ✅ Built to reduce emergency response delays
-      <br/><br/>
-      <a href="https://github.com/Mithun-Mithu"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💊 Healthcare Expense Tracker</h3>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <br/><br/>
-      <b>Full-stack expense management app</b> for tracking and analyzing healthcare costs. Features database-backed storage, categorized spending views, and an intuitive UI.
-      <br/><br/>
-      ✅ CRUD operations with SQL backend<br/>
-      ✅ Expense analytics & categorization<br/>
-      ✅ Clean, responsive UI
-      <br/><br/>
-      <a href="https://github.com/Mithun-Mithu"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌦️ AI Weather Prediction System</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <br/><br/>
-      <b>Machine learning system</b> that predicts weather patterns using historical climate datasets. Applies regression and classification models with preprocessing pipelines.
-      <br/><br/>
-      ✅ Trained on historical climate datasets<br/>
-      ✅ Regression + classification models<br/>
-      ✅ End-to-end ML pipeline
-      <br/><br/>
-      <a href="https://github.com/Mithun-Mithu"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🌾 Agritechie — Farming Support Platform</h3>
       <img src="https://img.shields.io/badge/Full_Stack-0ea5e9?style=flat-square"/>
@@ -168,20 +189,7 @@ Motto       : "Exploring tech, creating impact."
       ✅ Farmer-friendly UI/UX<br/>
       ✅ Built for real social impact
       <br/><br/>
-      <a href="https://github.com/Mithun-Mithu"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩸 Blood Donation Platform</h3>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Database-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <br/><br/>
-      <b>Donor-institution matching system</b> enabling hospitals and blood banks to efficiently locate required blood groups and connect with registered donors in real time.
-      <br/><br/>
-      ✅ Blood group search & donor matching<br/>
-      ✅ Institution management dashboard<br/>
-      ✅ Built for healthcare accessibility
-      <br/><br/>
-      <a href="https://github.com/Mithun-Mithu"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/Mithun-Mithu/Mithun-M-"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
@@ -226,8 +234,8 @@ Motto       : "Exploring tech, creating impact."
 | 🤖 | **GenAI Powered Data Analytics** | Tata via Forage |
 | 🏗️ | **Solutions Architecture Virtual Experience** | AWS APAC via Forage |
 | 🎓 | **Springboard Certifications** | Infosys |
-| ✍️ | **Prompt Engineering** | Infosys Springboard |
-| 🧑‍💻 | **Technical Bootcamps** | Academics |
+| ✍️ | **Prompt Engineering** | — |
+| 🧑‍💻 | **Technical Bootcamps** | — |
 
 <br/>
 
