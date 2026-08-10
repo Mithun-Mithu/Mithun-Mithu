@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"/>
+<img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```yaml
 Name        : Mithun M
@@ -162,6 +162,18 @@ Motto       : "Exploring tech, creating impact."
       <br/><br/>
       <a href="https://github.com/Mithun-Mithu/Mithun-M-"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩸 Blood Donation Platform</h3>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Database-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <br/><br/>
+      System enabling organizations to find required blood groups locally.
+      <br/><br/>
+      <a href="https://github.com/Mithun-Mithu/Mithun-M-"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
