@@ -105,63 +105,42 @@ Motto       : "Exploring tech, creating impact."
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 Full Stack E-Commerce App (MERN)</h3>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <h3>📅 Daily DSA Practice</h3>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <br/><br/>
-      <b>Full-stack e-commerce platform</b> with product listings, cart management, JWT authentication, order processing, and an admin dashboard for inventory and order management.
+      Daily DSA problem solving in Java — arrays, linked lists, trees, graphs, dynamic programming and more.
       <br/><br/>
-      ✅ JWT-based secure authentication<br/>
-      ✅ Admin dashboard + product/order management<br/>
-      ✅ RESTful APIs with MongoDB backend
-      <br/><br/>
-      <a href="https://github.com/Mithun-Mithu/Full-Stack-e-commerce-MERN-app"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/Mithun-Mithu/Daily_DSA_Practice"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ Cloud Native Smart Placement Analyzer</h3>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <h3>🛒 Full Stack E-Commerce App (MERN)</h3>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <br/><br/>
-      <b>AI-powered ATS resume analyzer</b> — students upload resumes and instantly receive an ATS score, skill analysis, and job role recommendations powered by AWS cloud services.
+      Full-stack e-commerce platform built with MongoDB, Express, React and Node.js.
       <br/><br/>
-      ✅ Resume ATS scoring powered by AWS<br/>
-      ✅ Skill gap analysis & job role recommendations<br/>
-      ✅ Cloud-native architecture on AWS
-      <br/><br/>
-      <a href="https://github.com/Mithun-Mithu/Cloud-native-smart-placement-analyzer"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/Mithun-Mithu/Full-Stack-e-commerce-MERN-app"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Fitness Planner AI Agent</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      <h3>☁️ Cloud Native Smart Placement Analyzer</h3>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
       <br/><br/>
-      <b>AI-powered fitness planner</b> that generates personalized workout and diet plans based on user goals, fitness level, and available equipment — built with LangChain, ChatGroq & DuckDuckGo.
+      Web app that lets students upload resumes and get ATS score, skill analysis, and job role recommendations powered by AWS.
       <br/><br/>
-      ✅ Personalized AI workout & diet plans<br/>
-      ✅ LangChain + ChatGroq LLM integration<br/>
-      ✅ Real-time web search via DuckDuckGo
-      <br/><br/>
-      <a href="https://github.com/Mithun-Mithu/Fitness-Planner-Agent"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/Mithun-Mithu/Cloud-native-smart-placement-analyzer"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📅 Daily DSA Practice</h3>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DSA-0ea5e9?style=flat-square"/>
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+      <h3>🤖 Fitness Planner Agent</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
       <br/><br/>
-      <b>Consistent daily DSA practice repository</b> — solving algorithmic problems in Java covering arrays, linked lists, trees, graphs, dynamic programming, and more.
+      AI-powered fitness planner that generates personalized workout and diet plans using Streamlit, LangChain, ChatGroq, and DuckDuckGo.
       <br/><br/>
-      ✅ Daily problem-solving in Java<br/>
-      ✅ Covers all major DSA topics<br/>
-      ✅ Active — updated 12 hours ago
-      <br/><br/>
-      <a href="https://github.com/Mithun-Mithu/Daily_DSA_Practice"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/Mithun-Mithu/Fitness-Planner-Agent"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
@@ -170,11 +149,7 @@ Motto       : "Exploring tech, creating impact."
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       <br/><br/>
-      <b>Automatic vehicle number recognition</b> system using image preprocessing, contour detection, and pattern matching. Processes frames in real-time to extract and identify license plates accurately.
-      <br/><br/>
-      ✅ Real-time image processing pipeline<br/>
-      ✅ Pattern detection with preprocessing filters<br/>
-      ✅ Practical application in traffic monitoring
+      Automatic vehicle number recognition using image preprocessing and pattern detection techniques.
       <br/><br/>
       <a href="https://github.com/Mithun-Mithu/Mithun-M-"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
@@ -183,11 +158,7 @@ Motto       : "Exploring tech, creating impact."
       <img src="https://img.shields.io/badge/Full_Stack-0ea5e9?style=flat-square"/>
       <img src="https://img.shields.io/badge/Web_Dev-22c55e?style=flat-square"/>
       <br/><br/>
-      <b>Digital support platform for farmers</b> providing modern agricultural insights, market data, and productivity tools — bridging the gap between farming and technology.
-      <br/><br/>
-      ✅ Agricultural insights & market data<br/>
-      ✅ Farmer-friendly UI/UX<br/>
-      ✅ Built for real social impact
+      Platform helping farmers access modern tools and agricultural insights.
       <br/><br/>
       <a href="https://github.com/Mithun-Mithu/Mithun-M-"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
