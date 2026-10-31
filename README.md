@@ -110,16 +110,6 @@ Motto       : "Exploring tech, creating impact."
       <br/><br/>
       <a href="https://github.com/Mithun-Mithu/Daily_DSA_Practice"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🛒 Full Stack E-Commerce App (MERN)</h3>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <br/><br/>
-      Full-stack e-commerce platform built with MongoDB, Express, React and Node.js.
-      <br/><br/>
-      <a href="https://github.com/Mithun-Mithu/Full-Stack-e-commerce-MERN-app"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
